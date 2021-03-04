@@ -9,4 +9,4 @@ const schema_ejercicio = mongoose.Schema({
 
 });
 
-module.exports = mongoose.model('Ejercicio', schema_ejercicio, 'ejercicios');
+module.exports = mongoose.model('Ejercicio', schema_ejercicio, 'Ejercicios');

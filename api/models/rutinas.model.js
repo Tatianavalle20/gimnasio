@@ -11,4 +11,4 @@ const schema_rutina = new mongoose.Schema({
 
 });
 
-module.exports = mongoose.model('Rutina', schema_rutina, 'rutinas');
+module.exports = mongoose.model('Rutina', schema_rutina, 'Rutinas');
